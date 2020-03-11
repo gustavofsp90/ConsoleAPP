@@ -1,0 +1,22 @@
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+C:\Users\desouza_r\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+c:\Users\Gustavo Passos\Desktop\Higher Diploma\Algorithms constructs\ConsoleApp2\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
